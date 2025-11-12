@@ -1,0 +1,10 @@
+# Versión de Python usada en el desarrollo
+python==3.11
+
+# Librerías del Proyecto
+pandas
+numpy
+nltk
+jupyterlab
+matplotlib
+seaborn
