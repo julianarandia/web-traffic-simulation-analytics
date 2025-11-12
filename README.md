@@ -9,8 +9,8 @@ EL proyecto aborda la necesidad crítica de los equipos de Marketing: pasar de m
 El análisis se basa en un dataset creado y simulado artificialmente, una decisión metodológica tomada debido a que el acceso directo a las APIs de analítica web requiere credenciales privadas. Esta simulación permitió aislar la fase de análisis y NLP del desafío de la autenticación, garantizando que la lógica del proyecto fuera el foco central. El dataset fue construido utilizando librerías en Python, empleando una semilla aleatoria para asegurar que, aunque los valores parecen aleatorios, todos los resultados sean completamente reproducibles para cualquiera que desee replicar el análisis. El DataFrame resultante representa fielmente las métricas críticas que un Analista de Marketing obtendría en la vida real, como el título del contenido, el tiempo en página, la tasa de rebote y las visitas.
 
 ## Guía de uso 
-1. Para el Análisis y Código del Proyecto: Puedes ver el [script]() en línea, o si prefieres [descargar el Notebook]() para ejecutarlo localmente en tu servidor de Jupyter,
-2. Para la Configuración y Dependencias: Dale un vistazo a los [requerimientos]().
+1. Para el Análisis y Código del Proyecto: Puedes ver el [script](notebooks/002.ipynb) en línea, o si prefieres descargar el Notebook para ejecutarlo localmente en tu servidor de Jupyter.
+2. Para la Configuración y Dependencias: Dale un vistazo a los [requerimientos](requirements.txt).
 
 ## Conclusiones  
 Basado en este análisis de datos completo, tu informe de Analista Junior al equipo de Marketing debería ser:
